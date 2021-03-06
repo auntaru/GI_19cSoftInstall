@@ -1,3 +1,7 @@
+
+https://medium.com/oracledevs/devops-series-automate-oracle-19c-grid-infrastructure-installations-with-ansible-github-bc491bdd34ce
+
+
 # GI_19cSoftInstall
 
 This Ansinble playbook is for Oracle Grid Infrastructure Installation, Oracle RAC Installation and Create RAC database 19c 64-bit on Oracle Linux 7 (OL7) 64-bit.
