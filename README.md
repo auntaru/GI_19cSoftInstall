@@ -1,4 +1,5 @@
 
+DevOps Series: Automate Oracle 19c Grid Infrastructure Installations Using Ansible [GITHUB] — Part I
 https://medium.com/oracledevs/devops-series-automate-oracle-19c-grid-infrastructure-installations-with-ansible-github-bc491bdd34ce
 
 
